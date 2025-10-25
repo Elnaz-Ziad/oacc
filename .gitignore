@@ -17,3 +17,5 @@ datasets/
 *.parquet
 *.feather
 
+
+*.egg-info/
