@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Data & outputs
+data/
+datasets/
+*.csv
+*.xlsx
+*.parquet
+*.feather
+
