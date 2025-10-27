@@ -1,6 +1,6 @@
 # OACC Project
 
-This project provides utilities for cleaning, analyzing, and visualizing the OACC dataset.
+This project provides utilities for cleaning and visualizing the OACC dataset.
 
 ### Install (editable):
     pip install -e .
