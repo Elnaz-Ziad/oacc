@@ -8,7 +8,12 @@ version = "0.1.0"
 description = "Utilities for OACC dataset processing"
 readme = "README.md"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "pyodbc>=4.0",
+    
+]
 
 [tool.setuptools]
 package-dir = {"" = "src"}
