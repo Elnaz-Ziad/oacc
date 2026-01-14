@@ -1,9 +1,3 @@
-# OACC Project
+# The Older Adults with Cancer Clinic (OACC)
 
-This project provides utilities for cleaning and visualizing the OACC dataset.
-
-### Install (editable):
-    pip install -e .
-
-### Import:
-    import oacc_package
+This repository contains code to clean and preprocess data from the Older Adults with Cancer Clinic (OACC) at Princess Margaret Cancer Centre, and to perform exploratory data analysis (EDA).
